@@ -14,3 +14,13 @@ c:\users\user p775\documents\visual studio 2013\Projects\CSC204_Project1\CSC204_
 C:\Git\CSC204\CSC204_Project1\bin\Debug\CSC204_Project1.exe.config
 C:\Git\CSC204\CSC204_Project1\obj\Debug\CSC204_Project1.exe
 C:\Git\CSC204\CSC204_Project1\obj\Debug\CSC204_Project1.pdb
+C:\Git\CSC204\CSC204_Project1\bin\Debug\CSC204_Project1.exe
+C:\Git\CSC204\CSC204_Project1\bin\Debug\CSC204_Project1.pdb
+C:\Git\CSC204\CSC204_Project1\obj\Debug\CSC204_Project1.csprojResolveAssemblyReference.cache
+C:\Git\CSC204\CSC204_Project1\obj\Debug\MainWindow.baml
+C:\Git\CSC204\CSC204_Project1\obj\Debug\MainWindow.g.cs
+C:\Git\CSC204\CSC204_Project1\obj\Debug\App.g.cs
+C:\Git\CSC204\CSC204_Project1\obj\Debug\CSC204_Project1_MarkupCompile.cache
+C:\Git\CSC204\CSC204_Project1\obj\Debug\CSC204_Project1.g.resources
+C:\Git\CSC204\CSC204_Project1\obj\Debug\CSC204_Project1.Properties.Resources.resources
+C:\Git\CSC204\CSC204_Project1\obj\Debug\CSC204_Project1.csproj.GenerateResource.Cache
