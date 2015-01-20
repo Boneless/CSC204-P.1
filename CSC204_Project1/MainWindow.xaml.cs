@@ -21,6 +21,7 @@ namespace CSC204_Project1
     /// </summary>
     public partial class MainWindow : Window
     {
+        //poop
         public MainWindow()
         {
             InitializeComponent();
