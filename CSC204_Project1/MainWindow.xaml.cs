@@ -1,4 +1,5 @@
-﻿using System;
+﻿//P1 Joe's Automotive, CSC 204, Jonathan Campbell #1145, Daniel Everett #1302
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,6 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
-//P1 Joe's Automotive, CSC 204, Jonathan Campbell #1145, Daniel Everett #1302
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
@@ -21,6 +21,7 @@ namespace CSC204_Project1
     /// </summary>
     public partial class MainWindow : Window
     {
+        //test comment
         public MainWindow()
         {
             InitializeComponent();
