@@ -50,7 +50,7 @@
         <Label Content="Total Fees" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="98,496,0,0"/>
         <Button Content="_Calculate Total" HorizontalAlignment="Left" Margin="62,558,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click" Background="#FFEA8282" FontFamily="Franklin Gothic Heavy"/>
         <Button Content="_Reset" HorizontalAlignment="Left" Margin="205,558,0,0" VerticalAlignment="Top" Width="112" Click="Button_Click_1" Background="#FFEA8282" FontFamily="Franklin Gothic Heavy"/>
-        <Button Content="_Exit2" HorizontalAlignment="Left" Margin="350,559,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click_2" BorderBrush="#FFD49696" Foreground="Black" Background="#FFEA8282" FontFamily="Franklin Gothic Heavy"/>
+        <Button Content="_Exit" HorizontalAlignment="Left" Margin="350,559,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click_2" BorderBrush="#FFD49696" Foreground="Black" Background="#FFEA8282" FontFamily="Franklin Gothic Heavy"/>
 
     </Grid>
 </Window>
