@@ -22,6 +22,7 @@ namespace CSC204_Project1
     public partial class MainWindow : Window
     {
         //test comment
+        //test comment two
         public MainWindow()
         {
             InitializeComponent();
