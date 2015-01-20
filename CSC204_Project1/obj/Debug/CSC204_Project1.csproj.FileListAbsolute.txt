@@ -11,3 +11,6 @@ c:\users\user p775\documents\visual studio 2013\Projects\CSC204_Project1\CSC204_
 c:\users\user p775\documents\visual studio 2013\Projects\CSC204_Project1\CSC204_Project1\obj\Debug\CSC204_Project1.csproj.GenerateResource.Cache
 c:\users\user p775\documents\visual studio 2013\Projects\CSC204_Project1\CSC204_Project1\obj\Debug\CSC204_Project1.exe
 c:\users\user p775\documents\visual studio 2013\Projects\CSC204_Project1\CSC204_Project1\obj\Debug\CSC204_Project1.pdb
+C:\Git\CSC204\CSC204_Project1\bin\Debug\CSC204_Project1.exe.config
+C:\Git\CSC204\CSC204_Project1\obj\Debug\CSC204_Project1.exe
+C:\Git\CSC204\CSC204_Project1\obj\Debug\CSC204_Project1.pdb

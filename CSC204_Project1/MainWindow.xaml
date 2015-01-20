@@ -51,7 +51,7 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="62,558,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="_Calculate Total" HorizontalAlignment="Left" Margin="62,558,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click"/>
         <Button Content="_Reset" HorizontalAlignment="Left" Margin="205,558,0,0" VerticalAlignment="Top" Width="112" Click="Button_Click_1"/>
-        <Button Content="_Exit" HorizontalAlignment="Left" Margin="350,559,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click_2"/>
+        <Button Content="_Exit2" HorizontalAlignment="Left" Margin="350,559,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click_2"/>
 
     </Grid>
 </Window>
